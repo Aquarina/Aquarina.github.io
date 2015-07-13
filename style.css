@@ -4,7 +4,7 @@ html, body, footer {
 
 html {
     overflow: hidden;
-    background-color: black;
+    background-color: white;
 }
 
 body {
@@ -15,6 +15,6 @@ body {
 img {
     border-width: 0;
     position: fixed;
-    top: calc(50% - 50px);
-    left: calc(50% - 50px);
+    top: calc(50% - 250px);
+    left: calc(50% - 250px);
 }
